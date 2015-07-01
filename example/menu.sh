@@ -1,5 +1,6 @@
 #!/bin/bash
-# Bash Menu Script Example
+#Bash Menu example
+# 
 
 trap 'echo;echo "Ctrl-C has been disabled"' SIGINT
 trap 'echo;echo "Ctrl-Z has been disabled"' SIGTSTP
