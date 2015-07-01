@@ -72,9 +72,9 @@ six(){
 # do something in seven()
 seven(){
         echo "you chose choice 7"
-#        echo "$USER start running MC from $SSH_CLIENT at `date`" >> /home/csadmin/scripts/logs/$USER-access.log
-#        mc /cerner/d_mockbc/log
-#        echo "$USER stop running MC from $SSH_CLIENT at `date`" >> /home/csadmin/scripts/logs/$USER-access.log
+        echo "$USER start running MC from $SSH_CLIENT at `date`" >> /home/csadmin/scripts/logs/$USER-access.log
+        mc /cerner/d_mockbc/log
+        echo "$USER stop running MC from $SSH_CLIENT at `date`" >> /home/csadmin/scripts/logs/$USER-access.log
         clear
 }
 
