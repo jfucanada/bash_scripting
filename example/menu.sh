@@ -14,7 +14,7 @@ echo "$USER login from $SSH_CLIENT at `date`" >> /home/csadmin/scripts/logs/$USE
 
 PS3="
 `uptime`
-You are on `hostname`. (Cerner CST non-prod server)
+You are on `hostname`. (Cerner non-prod server)
 
 Please enter your choice:
 "
