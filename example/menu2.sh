@@ -105,7 +105,7 @@ show_menus() {
         echo "You are on `hostname`. (Cerner CST non-prod server)"
         echo
         echo "#################################################"
-        echo "###  PHSA Cerner CST utility interface menu   ###"
+        echo "###  Cerner CST utility interface menu        ###"
         echo "#################################################"
         echo "1. CCL(mockbc)"
         echo "2. SCP(mockbc)"
